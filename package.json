@@ -1,0 +1,13 @@
+{
+  "name": "azeroth-survivors-cloud-save",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Unofficial userscript that syncs Azeroth Survivors (wow.aethus.pl) saves across browsers and devices through a private GitHub Gist.",
+  "license": "MIT",
+  "scripts": {
+    "test": "node tests/sync.test.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
